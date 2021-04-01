@@ -5,7 +5,7 @@ date: 2020-08-01 2:29:35 PM
 categories: python
 tags:
 permalink:
-published: false
+published: true
 ---
 *My long time interest in programming, recently python and resources I’ve discovered*
 
