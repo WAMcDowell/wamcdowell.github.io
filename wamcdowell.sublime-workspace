@@ -7,19 +7,34 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "about.md",
-			"settings":
-			{
-				"buffer_size": 850,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -29,8 +44,12 @@
 		"selected_items":
 		[
 			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
 				"packa",
-				"Package Control: List Packages"
+				"Package Control: Install Package"
 			],
 			[
 				"inst",
@@ -101,7 +120,8 @@
 	],
 	"file_history":
 	[
-		"/Users/will/Developer/wamcdowell/about.md"
+		"/Users/will/Developer/wamcdowell/about.md",
+		"/Users/will/Developer/wamcdowell/test.py"
 	],
 	"find":
 	{
@@ -136,38 +156,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "about.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								850,
-								850
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -202,11 +192,15 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 443.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
 	"project": "wamcdowell.sublime-project",
 	"replace":
 	{
