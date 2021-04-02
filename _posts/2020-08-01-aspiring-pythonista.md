@@ -5,11 +5,11 @@ date: 2020-08-01 2:29:35 PM
 categories: python
 tags:
 permalink:
-published: true
+published: false
 ---
 *My long time interest in programming, recently python and resources I’ve discovered*
 
-One of the skills I have dabbled and re-dabbled multiple times is programming. I have come to equate programming to wizardry. You can do magical things in the digital realm if you know the language of the craft. My interest goes back to my early years with my Atari 800 and  Commodore64. Since then I hobbied with VBA, CGI/ASP and for a good stretch of time Ruby on Rails (RoR). I learned a lot about web development thru RoR, but as my interest expanded into the realms of Data and Finance I discovered Python. Over the 3 months I’ve discovered a number of good python resources which I will list out here to be explored in depth at a later time.
+One of the skills I have dabbled and re-dabbled multiple times is programming. I have come to equate programming to wizardry. You can do magical things in the digital realm if you know the language of the craft. My interest goes back to my early years with my Atari 800 and  Commodore64. Since then I hobbied with VBA, CGI/ASP and for a good stretch of time Ruby on Rails (RoR). I learned a lot about web development thru RoR, but as my interest expanded into the realms of Data and Finance I discovered Python. Over the last 3 months I’ve discovered a number of good python resources which I will list out here to be explored in depth at a later time.
 
 - [Learn Python the Hard Way](https://learncodethehardway.org/python/): Very structured approach to learning the fundamentals of Python touching on CLI and web applications.
 - [Python Crash Course](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=): Introduction to Python followed by a project focused deeper dive covering desktop, data and web applications.

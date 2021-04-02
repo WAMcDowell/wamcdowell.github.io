@@ -5,7 +5,7 @@ date: 2020-07-25
 categories: misc
 tags:
 permalink:
-published: true
+published: false
 ---
 *A very brief explanation of the purpose of this blog.*
 
